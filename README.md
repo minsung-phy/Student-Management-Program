@@ -1,2 +1,2 @@
 # Student-Management-Program
-Oracle RDBMS를 공부하기 위해 간단한 프로젝트를 진행해봤습니다.
+Oracle DBMS를 이용해 간단한 학생 관리 프로그램을 만들었습니다.
